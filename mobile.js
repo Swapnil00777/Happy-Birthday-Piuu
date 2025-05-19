@@ -1,3 +1,6 @@
+console.log("mobile.js loaded");
+
+
 let highestZ = 1;
 
 class Paper {
